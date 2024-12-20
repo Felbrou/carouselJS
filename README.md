@@ -1,7 +1,7 @@
 # carouselJS
 Image carousel I made using JS, CSS and HTML to increase my knowledge about
 
-# � Image Carousel Project 
+#  Image Carousel Project 
 
 ## � Project Overview
 This project implements a dynamic image carousel using vanilla JavaScript, CSS, and HTML. The carousel allows users to navigate through a collection of images with smooth transitions and intuitive controls. This hands-on project was developed to deepen understanding of front-end web development fundamentals and DOM manipulation.
